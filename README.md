@@ -1,7 +1,7 @@
 # Mobile-phone-tracking-
  I have designed a data structure that will help us solve a simpliﬁed version of the mobile phone tracking problem, i.e., the 
  fundamental problem of cellular networks: When a phone is called, ﬁnd where it is located so that a connection may be 
- established
+ established.
 
 Mobile phone tracking system description
 As we know each mobile phone that is switched on is connected to the base station which is nearest. These base stations are
