@@ -1,4 +1,4 @@
- public class Node
+public class Node
 {
    MobilePhone m;
    Node next;
